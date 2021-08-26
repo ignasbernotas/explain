@@ -37,7 +37,7 @@ For now, you have to build it yourself. I will be setting up Github Actions to b
 #### Building an executable
 
 ```shell
-go get github.com/ignasbernotas/explain
+go get -d github.com/ignasbernotas/explain
 ```
 
 ```shell
